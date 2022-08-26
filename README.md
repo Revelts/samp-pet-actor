@@ -8,6 +8,7 @@ Brain & Effort
 
 ## Dependencies
 - y_timer
+- y_hook
 - easyDialog
 - MapAndreas
 - streamer
